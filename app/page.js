@@ -40,10 +40,11 @@ export default function LoveWebsite() {
         <h1>I Love You ❤️</h1>
         <h3>— Shashank</h3>
 
-        <img src="/photo1.jpg" width="250"/>
-        <img src="/photo2.jpg" width="250"/>
-        <img src="/photo3.jpg" width="250"/>
-        <img src="/photo4.jpg" width="250"/>
+        <img src="/20211225_135125.jpg" width="250"/>
+        <img src="/20211227_114902.jpg" width="250"/>
+        <img src="/IMG-20220112-WA0006.jpg" width="250"/>
+        <img src="/IMG20230817155149.jpg" width="250"/>
+        <img src="/IMG20240328143350.jpg" width="250"/>
 
       </div>
 
