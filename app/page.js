@@ -25,7 +25,7 @@ export default function LoveWebsite() {
 
       <div id="question-section">
         <h1>Harshita ❤️</h1>
-        <h2>Will you go on a Date with me?</h2>
+        <h2>Will you go on a Date with me, tab tujhe kuch dikhaunga abhi?</h2>
 
         <button onClick={showLoveMessage}>
           Yes 💖
